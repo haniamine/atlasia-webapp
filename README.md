@@ -1,8 +1,12 @@
-# React + Vite
+# Atlas IA web app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Vite
+Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. It consists of two major parts:
 
-Currently, two official plugins are available:
+# Design Library : Material UI
+Material UI is an open-source React component library that implements Google's Material Design. It's comprehensive and can be used in production out of the box.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Icon Library : Material Icons
+2,100+ ready-to-use React Material Icons from the official website.
+
+All icons are here: https://mui.com/material-ui/material-icons
